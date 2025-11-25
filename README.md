@@ -42,5 +42,3 @@ open index.html
 ```
 
 That's it! No installation, no dependencies, just open and use.
-
-## 📁 Project Structure
