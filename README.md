@@ -1,12 +1,6 @@
-# 🏎️ F1 Race Predictor v2.0
+# F1 Race Predictor v2.0
 
-Advanced Formula 1 race prediction system using neural network-inspired algorithm.
-
-![Version](https://img.shields.io/badge/version-2.0-blue)
-![Accuracy](https://img.shields.io/badge/accuracy-91.87%25-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
-
-## 🎯 Features
+## Features
 
 - **14 Input Parameters** - Comprehensive race factors
 - **91.87% Accuracy** - Tested on 2,558 races (2019-2024)
@@ -16,7 +10,7 @@ Advanced Formula 1 race prediction system using neural network-inspired algorith
 - **100% Offline** - No internet required after setup
 - **Mobile Responsive** - Works on all devices
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -27,7 +21,7 @@ Advanced Formula 1 race prediction system using neural network-inspired algorith
 | Training Samples | 25,107 |
 | Years Covered | 1950-2024 |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 ```bash
